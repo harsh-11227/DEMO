@@ -1,2 +1,2 @@
 # DEMO
-THIS IS MY 1st GITHUB REPROSITORY
+This Is My 1st Git Reprositories
